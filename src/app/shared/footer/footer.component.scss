@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+
+  }
+.mat-toolbar {
+    background-color: black;
+    color:white;
+    height: 100px;
+    justify-content: center; 
+}
+.header-button {
+    justify-content: baseline;
+}
+.mat-mdc-button:hover{
+    color:red;
+}
+

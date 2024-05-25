@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0;
+      font-family: "GT Sectra Fine Medium";
+      background-image: url(assets/PSB_IMAGES/BG.png);
+      background-size: cover;
+      }
+
+.app-footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; 
+}
+
+.latest-song-card{
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.mat-mdc-button{
+  font-family: "GT Sectra Fine Medium";
+}
+@import url(https://db.onlinewebfonts.com/c/0a69472b2055d5cd74250fc782b80039?family=GT+Sectra+Fine+Medium);
+
+

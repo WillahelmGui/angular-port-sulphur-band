@@ -1,0 +1,30 @@
+h1{
+    font-family: "GT Sectra Fine Medium";
+    font-size:  40px;
+    color: #fff;
+}
+
+.figure{
+    margin: 0;
+    img{
+        max-width: 100%;
+    }
+} 
+
+p{
+    font-family: "GT Sectra Fine Medium";
+    font-size: 20px;
+    color:#fff;
+}
+
+.latest-release-card{
+    margin-top: 10%;
+    display:flex;
+    flex-direction: row;
+}
+
+.latest-release-card-text{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
